@@ -120,8 +120,9 @@ while True:
         break
     else:
         print("Optiune gresita! Reincercati!")
-   def main():
+
+def main():
   # interfata de tip consola aici
 
   if __name__ == '__main__':
-  main()
+     main()
